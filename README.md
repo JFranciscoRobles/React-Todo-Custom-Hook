@@ -9,6 +9,7 @@ Practice with a custom Hook named useTodoList which provides functions to manipu
 - [ ] Full Responsive.
 - [ ] Create Table Components.
 
+### `npm install`
 ### `yarn start`
 
 Runs the app in the development mode.\
