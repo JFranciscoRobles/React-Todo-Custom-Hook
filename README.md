@@ -1,6 +1,9 @@
 # Introduction
 Practice with a custom Hook named useTodoList which provides functions to manipulate a list of tasks with their functions, styled with Chakra UI.
 
+![todoExample](https://github.com/JFranciscoRobles/React-Todo-Custom-Hook/blob/main/example.png)
+
+
 ### Goals to reach
 
 - [x]  Create a Custom Hook.
@@ -8,6 +11,7 @@ Practice with a custom Hook named useTodoList which provides functions to manipu
 - [x] Basic design completed.
 - [ ] Full Responsive.
 - [ ] Create Table Components.
+- [ ] Multi-Lenguage.
 
 ### `npm install`
 ### `yarn start`
